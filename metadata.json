@@ -1,0 +1,7 @@
+{
+	"name": "Bitcoin HD Wallet Key Derivation",
+	"author": "Fortanix",
+	"description": "Bitcoin HD wallet key derivation plugin derives child key pairs from a master key",
+	"keywords": ["BlockChain"],
+	"plugin": "key_derivation.lua"
+}
