@@ -3,5 +3,6 @@
 	"author": "Fortanix",
 	"description": "Bitcoin HD wallet key derivation plugin derives child key pairs from a master key",
 	"keywords": ["BlockChain"],
-	"plugin": "key_derivation.lua"
+	"plugin": "key_derivation.lua",
+	"version": "v1.0"
 }
